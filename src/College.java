@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-
+// Create class college
 public class College {
     private String name;
     private ArrayList<Student> students;
