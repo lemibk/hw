@@ -1,4 +1,6 @@
-public class Student {
+
+// Create class student
+ public class Student {
 private String name;
   private  int id;
    private static int[] grades;
